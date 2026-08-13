@@ -1,1 +1,1 @@
-const API_URL = 'https://projimplantarrailway-production.up.railway.app'
+const API_URL = 'https://projimplantarailway2-production.up.railway.app'
